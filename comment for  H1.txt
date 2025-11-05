@@ -1,0 +1,7 @@
+(+2) The writing code has good logit and annotation. 
+
+1. (-2) Please strictly follow the requirement of the question. In question one, a, b, and c are assigned to 5, 15, 10, respectively. 
+2. (-0)
+3. (-0)
+4. (-0)
+5. (-0)
